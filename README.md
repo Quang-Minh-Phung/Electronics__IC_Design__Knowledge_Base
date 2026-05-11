@@ -1,2 +1,28 @@
-# Electronics__IC_Design__RTL_DV__Free_Meaningful_Knowledge_Sharing
-Kho lưu trữ các tài liệu và sơ đồ mạch do Phùng Quang Minh biên soạn nhằm chia sẻ kiến thức nền tảng ngành Điện tử, hỗ trợ sinh viên Đại học và Cao đẳng, đặc biệt tại ĐH KHTN TP.HCM (HCMUS).
+# Electronics - IC Design Free Knowledge Base
+Kho tài liệu do Phùng Quang Minh tổng hợp và biên soạn, tập trung vào các kiến thức nền tảng của chuyên ngành Điện tử.
+
+## Đối tượng
+- Sinh viên bậc Đại học, Cao đẳng chuyên ngành Điện Tử hoặc các ngành liên quan như Kỹ Thuật Máy Tính, Điện - Điện Tử, Khoa Học Máy Tính,... (Đặc biệt phù hợp với các bạn có dự định hoặc đang theo học ngành Kỹ Thuật Điện Tử - Viễn Thông tại trường Đại Học Khoa Học Tự Nhiên TP.HCM).
+- Học sinh cấp 2, cấp 3 hứng thú và muốn tìm hiểu về Điện Tử, Thiết Kế Vi Mạch.
+- Người quan tâm, có công việc chuyên môn về tuyển dụng, đào tạo và phát triển nhân lực trong lĩnh vực Điện Tử, Thiết Kế Vi Mạch.
+- Người tự học.
+
+## Mục tiêu
+- Hệ thống hóa kiến thức nền tảng trong lĩnh vực Điện Tử, Thiết Kế Vi Mạch.
+- Cung cấp tài liệu học tập rõ ràng, trực quan và dễ tiếp cận.
+- Hỗ trợ người học xây dựng nền tảng vững chắc và tư duy kỹ thuật thông qua việc:
+  + Giải thích rõ ràng và dễ hiểu cho các công thức và khái niệm phức tạp.
+  + Bổ sung các góc nhìn khác mà các tài liệu học thuật chuyên ngành chưa đề cập đến.
+ 
+## Nội dung chia sẻ
+- Tài liệu PDF tổng hợp và biên soạn lại.
+- Tài liệu PDF học thuật chuyên ngành phục vụ mục đích tham khảo.
+- Sơ đồ mạch điện: quy trình thiết kế và phân tích mạch.
+
+## Định hướng
+- Chuẩn hóa nội dung theo hướng rõ ràng, dễ đọc, dễ tra cứu.
+- Phục vụ định hướng theo Thiết Kế Vi Mạch (Custom Circuit, RTL DE và DV).
+- Xây dựng kho tri thức Điện Tử lâu dài, có giá trị tham khảo cao.
+
+## Ghi Chú
+Tất cả tài liệu trong repo này được tổng hợp và biên soạn với mục đích học tập và chia sẻ kiến thức.
