@@ -18,7 +18,7 @@ Kho tài liệu do Phùng Quang Minh tổng hợp và biên soạn, với địn
 - Tài liệu PDF tổng hợp và biên soạn lại.
 - Tài liệu PDF học thuật chuyên ngành phục vụ mục đích tham khảo.
 - Sơ đồ mạch điện: quy trình thiết kế và phân tích mạch.
-- RTL Design, Testbench và Model Verilog/System Verilog source code.
+- Source code được viết bởi các ngôn ngữ lập trình C, Assembly (MIPS, ARM), Python, Perl, Tcl, Awk và ngôn ngữ mô tả phần cứng Verilog/System Verilog.
 
 ## Định hướng
 - Chuẩn hóa nội dung theo hướng rõ ràng, dễ đọc, dễ tra cứu.
