@@ -1,1 +1,1 @@
-## Xử Lý Tín Hiệu SỐ (DSP - Digital Signal Processing)
+## Xử Lý Tín Hiệu Số (DSP - Digital Signal Processing)
