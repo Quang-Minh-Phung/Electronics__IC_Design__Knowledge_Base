@@ -1,5 +1,5 @@
 # Electronics & IC Design Knowledge Base
-Kho tài liệu do Phùng Quang Minh tổng hợp và biên soạn, với định hướng chia sẻ kiến thức nền tảng chuyên ngành Điện tử, xuất phát từ quá trình học tập tại trường Đại học Khoa học Tự nhiên TP.HCM (HCMUS).
+Kho tài liệu do Minh Ú (phgquangminh) tổng hợp và biên soạn, với định hướng chia sẻ kiến thức nền tảng chuyên ngành Điện tử, xuất phát từ quá trình học tập tại trường Đại học Khoa học Tự nhiên TP.HCM (HCMUS).
 
 ## Đối tượng
 - Sinh viên bậc Đại học, Cao đẳng chuyên ngành Điện Tử hoặc các ngành liên quan như Kỹ Thuật Máy Tính, Điện - Điện Tử, Khoa Học Máy Tính,... (Đặc biệt phù hợp với các bạn có dự định hoặc đang theo học ngành Kỹ Thuật Điện Tử - Viễn Thông tại trường Đại Học Khoa Học Tự Nhiên TP.HCM).
