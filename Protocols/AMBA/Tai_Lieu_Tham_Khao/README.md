@@ -1,6 +1,6 @@
 ## Tài Liệu Tham Khảo Chính Thức Từ ARM
 Dưới đây là lộ trình tự học các giao thức AMBA (từ cơ bản đến nâng cao) mà Minh Ú đề xuất, giúp hiểu rõ cấu trúc và vai trò của từng loại bus trong SoC.
-
+Các bạn có thể tham khảo thêm ở https://developer.arm.com/documentation
 
 ### 1. Bus nền tảng
 APB → ASB → AHB
